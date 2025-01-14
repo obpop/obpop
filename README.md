@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer based in Malmö, Sweden. With a strong foundation in both frontend and backend development, I enjoy building robust, scalable, and user-friendly solutions. I'm passionate about exploring new technologies, continuously learning, and tackling complex problems with creative approaches.
 
-**I like building *useful, profitable and valuable* web application.** 📈
+**I like building *useful, profitable and valuable* web applications.** 📈
 
 ## 🌱 About Me
 - 🎓 Final year B.Sc. Computer Science student at Malmö University, graduating in June 2025. 
@@ -43,11 +43,13 @@ A responsive web application inspired by Blocket.se, enabling users to buy and s
 - Backend: Spring Boot, PostgreSQL
 - Frontend: Next.js, React.js, Tailwind CSS
 - Features: User authentication, product listings with images, search functionality, order history, and notifications.
+
 ### 🤖 TrustMe
 A platform that aggregates and summarizes customer reviews using AI, providing valuable feedback on products and services.
 - Backend: Javalin, Google Places API, Foursquare Places API, OpenAI API
 - Frontend: HTML, CSS, JavaScript
 - Highlights: Asynchronous HTTP requests, dynamic content fetching, AI-powered review summaries.
+
 ### 📊 RentalBuddy - Analytic Dashboard (Signed NDA) 
 An analytics dashboard developed for a SaaS solution, providing users with a clear overview of their operations through interactive data visualizations.
 - Backend: TypeScript, Node.js, Express.js
