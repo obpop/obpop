@@ -1,8 +1,6 @@
 ## Hey there, I'm *Oliver Berggren* 🤙
 
-I'm a Full Stack Developer based in Malmö, Sweden. With a strong foundation in both frontend and backend development, I enjoy building robust, scalable, and user-friendly solutions. I'm passionate about exploring new technologies, continuously learning, and tackling complex problems with creative approaches.
-
-**I like building *useful, profitable and valuable* web applications.** 📈
+I'm a Full Stack Developer based in Malmö, Sweden. With a strong foundation in both frontend and backend development, **I enjoy building *useful, profitable and scalable* solutions.**. I'm passionate about exploring new technologies, continuously learning, and tackling complex problems with creative approaches.
 
 ## 🌱 About Me
 - 🎓 Final year B.Sc. Computer Science student at Malmö University, graduating in June 2025. 
