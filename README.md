@@ -12,7 +12,7 @@ I'm a Full Stack Developer based in Malmö, Sweden. With a strong foundation in 
 | **Category**       | **Technologies**                                      |
 |--------------------|-------------------------------------------------------|
 | Languages          | Java, JavaScript, TypeScript, SQL, XML, KQL           |
-| Frameworks         | Spring Boot, React, Next.js                           |
+| Frameworks         | Spring Boot, .NET, Node, Express, React, Next         |
 | Databases          | PostgreSQL, MySQL, SQLite, MongoDB                    |
 | Tools              | Git, Docker, IntelliJ, Visual Studio Code, Kubernetes |
 | Design Patterns    | MVC, Singleton, DTO, Publish-Subscribe                |
