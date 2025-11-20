@@ -1,6 +1,5 @@
 ## Hey there, I'm *Oliver Berggren* 🤙
 
-## 📫 How to Reach Me
 - 📧 [Email](oliverberggren00@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliver-berggren-97a294274/)
 - 💻 [GitHub](https://github.com/obpop) 
