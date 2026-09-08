@@ -1,4 +1,4 @@
-## Hey there, I'm *Oliver Berggren* 🤙
+## Hey there, I'm *Oliver* 🤙
 
 - 📧 [Email](oliverberggren00@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliver-berggren-97a294274/)
